@@ -18,7 +18,7 @@ public class CalculosMatematicos {
 			if (esPrimo(i))
 				aIntegers.add(i);
 			if(i == 1)
-				aInteger.add(2);
+				aIntegers.add(2);
 		}
 		return aIntegers;
 	}
